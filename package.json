@@ -1,6 +1,6 @@
 {
-  "name": "json-graphql",
-  "version": "1.0.0",
+  "name": "@antstackio/json-to-graphql",
+  "version": "1.0.1",
   "description": "Json to Graphql mutation",
   "main": "src/index.js",
   "scripts": {

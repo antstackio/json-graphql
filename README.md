@@ -8,13 +8,13 @@ Use the package manager npm to install the package
 
 
 ```bash
-npm i <TBD>
+npm i @antstackio/json-to-graphql
 ```
 
 ## Usage
 
 ```nodejs
-const { jsonToGrapqhQLMutation, jsonToGrapqhQLQuery } = require("<TBD>");
+const { jsonToGrapqhQLMutation, jsonToGrapqhQLQuery } = require("@antstackio/json-to-graphql");
 
 // sample JSON data for creating a mutation
 const mutationDataSample = {...};
