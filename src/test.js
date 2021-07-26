@@ -1,6 +1,7 @@
 
 const { jsonToGrapqhQLMutation, jsonToGrapqhQLQuery } = require("./index.js");
 
+
 const mutationDataSample = {
   name: "myMutation",
   tableName: "table1",

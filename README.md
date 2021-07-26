@@ -152,7 +152,7 @@ mutation myMutationName {
 
 ### Json to GraphQL Query Output
 ```
-query myQuery {
+query myQueryName {
   item1
   item2 {
     item21
