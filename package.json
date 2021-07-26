@@ -1,7 +1,7 @@
 {
   "name": "@antstackio/json-to-graphql",
-  "version": "1.0.1",
-  "description": "Json to Graphql mutation",
+  "version": "1.0.2",
+  "description": "JSON to GraphQL Query / Mutation",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
