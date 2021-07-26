@@ -1,0 +1,19 @@
+{
+  "name": "json-graphql",
+  "version": "1.0.0",
+  "description": "Json to Graphql mutation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antstackio/json-graphql.git"
+  },
+  "author": "Sandeep Kumar P <sands.kumar4u@gmail.com> (https://github.com/sandykumar93) ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antstackio/json-graphql/issues"
+  },
+  "homepage": "https://github.com/antstackio/json-graphql#readme"
+}
